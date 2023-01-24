@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [All Books] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
@@ -205,17 +205,15 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Joseph David**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@jodavid444](https://github.com/jodavid444)
 
-👤 **Author2**
+- Twitter: [@jodavid444dave](https://twitter.com/jodavid444dave)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/joseph-david-01a8a5243)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
