@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jodavid444/All-Books/issues"
   },
-  "homepage": "https://github.com/jodavid444/All-Books#readme"
+  "homepage": "https://github.com/jodavid444/All-Books#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
 }
