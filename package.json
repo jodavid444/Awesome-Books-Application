@@ -1,0 +1,20 @@
+{
+  "name": "all-books",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jodavid444/All-Books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jodavid444/All-Books/issues"
+  },
+  "homepage": "https://github.com/jodavid444/All-Books#readme"
+}
