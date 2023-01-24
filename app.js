@@ -131,5 +131,3 @@ const second = d.getSeconds();
 const ampm = hour >= 12 ? 'pm' : 'am';
 
 date.innerHTML = `${mo} ${da}th ${ye}, ${hour}:${minute}:${second} ${ampm}`;
-
-
