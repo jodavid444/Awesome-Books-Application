@@ -14,9 +14,13 @@
 - Technologies used
 
 Github
+
 Git
+
 WebHint
+
 Stylelint
+
 ESlint
 
 ## Live Demo (if available)
