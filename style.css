@@ -134,8 +134,7 @@ form input {
   padding: 6px 7px;
   font-size: 16px;
   font-weight: bold;
-  outline: none;
-  border-radius: 10px;
+  border: 2px solid black;
 }
 
 form input:hover {
@@ -151,10 +150,14 @@ form input:hover {
   font-weight: bold;
   font-size: 16px;
   cursor: pointer;
-  background-color: #000;
+  background-color: rgb(44, 43, 43);
   color: #fff;
-  border: 1px solid #d3d3d3;
   margin-right: 5px;
+  border: none;
+}
+
+.form-btn button:hover {
+  background-color: rgb(124, 124, 124);
 }
 
 #error {

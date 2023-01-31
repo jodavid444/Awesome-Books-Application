@@ -14,14 +14,18 @@
 - Technologies used
 
 Github
+
 Git
+
 WebHint
+
 Stylelint
+
 ESlint
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://jodavid444.github.io/All-Books/)
 
 
 ## Getting Started
